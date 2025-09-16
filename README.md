@@ -66,7 +66,26 @@
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canerksc&show_icons=true&locale=en" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/canerksc" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=canerksc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+         height="150"
+         alt="GitHub Stats"
+         style="transition: transform 0.3s, box-shadow 0.3s, filter 0.3s; border-radius: 10px;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 15px 30px rgba(0,255,255,0.4)'; this.style.filter='brightness(1.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.filter='brightness(1)';"/>
+  </a>
+
+  <a href="https://github.com/canerksc" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=canerksc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+         height="150"
+         alt="Top Languages"
+         style="transition: transform 0.3s, box-shadow 0.3s, filter 0.3s; border-radius: 10px;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 15px 30px rgba(255,0,255,0.4)'; this.style.filter='brightness(1.1)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 rgba(0,0,0,0)'; this.style.filter='brightness(1)';"/>
+  </a>
 </div>
+
+
+
 
