@@ -77,10 +77,3 @@
 
 ---
 
-
-###
-
-<img src="https://raw.githubusercontent.com/Canerksc/Canerksc/output/snake.svg" alt="Snake animation" />
-
-
-###
